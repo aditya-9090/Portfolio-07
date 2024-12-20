@@ -91,7 +91,7 @@ const Home = () => {
         {/* Example online tech image with simple fade-in animation */}
         <img
           src={laptop}
-          alt="Tech Image"
+          alt="Laptop on desk showing technology"
           className="w-full md:max-w-lg rounded-lg shadow-lg animate-fade-in-slow"
         />
       </div>
