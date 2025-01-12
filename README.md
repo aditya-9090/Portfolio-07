@@ -27,7 +27,8 @@ To run the project locally, follow these steps:
 1. **Clone the Repository**:
    - Open your terminal and run:
      ```bash
-     git clone https://github.com/AdityaPatil/portfolio-website.git
+     git clone  https://github.com/aditya-9090/Portfolio-07.git
+    
      cd portfolio-website
      ```
 
